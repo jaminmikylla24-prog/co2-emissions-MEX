@@ -86,13 +86,13 @@ To reproduce the analysis, open the project in RStudio and run:
 
 ## 7. Environmental Interpretation
 
-This analysis examines changes in Mexico's annual CO₂ emissions and per-capita emissions from 1990 to 2024. Annual emissions represent the total amount of CO₂ released within the country, while per-capita emissions show the average emissions per person. These indicators help explain the difference between a country's total contribution and its emissions relative to population.
+Mexico's annual CO₂ emissions generally increased between 1990 and 2024. In 1990, emissions were approximately 314.82 million tonnes, compared with 471.45 million tonnes in 2024. This represents an overall increase of 49.75%. Emissions reached their highest level in 2012, at approximately 501.20 million tonnes. A sustained upward trend can be observed from 1990 to 2007, although emissions temporarily decreased in 1995.
 
-The graphs allow us to observe long-term patterns, including periods of increasing or decreasing emissions and unusual year-to-year changes. Changes in emissions may be associated with economic activity, industrial development, energy consumption, transportation, and environmental policies. However, the graphs alone cannot prove which factors caused these changes.
+An unusual year was 2020, when annual emissions decreased by approximately 8.66%, from 472.84 million tonnes in 2019 to 431.90 million tonnes. One possible explanation is the COVID-19 pandemic, which disrupted transportation and economic activities around the world. The International Energy Agency reported that pandemic restrictions reduced global energy demand and CO₂ emissions in 2020. However, this global explanation does not prove the exact cause of Mexico's decrease.
 
-Mexico's emissions patterns are important because CO₂ contributes to global climate change. Changes in national emissions can affect climate-related risks and ecosystems, including biodiversity, habitats, and natural resources. Understanding these trends can help highlight the importance of cleaner energy, efficient transportation, and sustainable development.
+Total emissions and per-capita emissions provide different information. Total emissions represent Mexico's overall CO₂ contribution, while per-capita emissions represent the average emissions per person. Mexico's per-capita emissions reached approximately 4.42 tonnes in 2006 and declined to 3.60 tonnes in 2024.
 
-This analysis has limitations because it uses territorial CO₂ emissions data and does not include all greenhouse gases or emissions from land-use change. Country-level statistics also cannot fully represent local environmental conditions. Actual numerical values and the peak emissions year should be interpreted using the summary CSV and graphs.
+These findings are environmentally important because CO₂ contributes to climate change, which can affect ecosystems, biodiversity, and natural resources. However, this analysis has limitations because national emissions data do not show differences among regions or individual industries. It also focuses on CO₂ rather than all greenhouse gases. Therefore, the results identify emission patterns but cannot establish their exact causes.
 
 ## 8. Limitations
 
@@ -102,4 +102,6 @@ The dataset focuses on territorial CO₂ emissions from fossil fuels and industr
 
 - Our World in Data. CO₂ and Greenhouse Gas Emissions Dataset. https://github.com/owid/co2-data
 
-- Our World in Data. CO₂ emissions data and methodology. https://ourworldindata.org/co2-emissions 
+- Our World in Data. CO₂ emissions data and methodology. https://ourworldindata.org/co2-emissions
+- International Energy Agency (2021). Global Energy Review: CO₂ Emissions in 2020. Read the IEA report. 
+IEA
